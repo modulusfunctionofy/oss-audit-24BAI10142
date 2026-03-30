@@ -41,6 +41,7 @@ oss-audit-24BAI10142/
 │   ├── log_analyzer.sh
 │   └── manifesto.sh
 │
+├── OSS_Audit_24BAI10142.pdf
 ├── README.md
 ```
 
